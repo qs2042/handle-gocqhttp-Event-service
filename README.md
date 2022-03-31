@@ -11,3 +11,6 @@ https://github.com/Mrs4s/go-cqhttp
 Old   可用的版本, 使用方法双击打开Server.py即可bb
 </br>
 New   对旧版本的一个屎山重构, 但是未完善
+
+# 效果图
+https://github.com/qs2042/handle-gocqhttp-Event-service/blob/main/img.png
