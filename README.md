@@ -14,4 +14,5 @@ New   对旧版本的一个屎山重构, 但是未完善
 
 # 效果图
 https://github.com/qs2042/handle-gocqhttp-Event-service/blob/main/img.png
-https://raw.githubusercontent.com/qs2042/handle-gocqhttp-Event-service/main/img.png
+
+![Image text](https://raw.githubusercontent.com/qs2042/handle-gocqhttp-Event-service/main/img.png)
